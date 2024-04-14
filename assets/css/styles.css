@@ -30,3 +30,23 @@ body{
   font-style: normal;
 }
 
+
+
+.intro-title{
+    text-align:center;
+    margin:30px;
+}
+
+.intro-para{
+    position: relative;
+    margin: 10px;
+    top: 50px;
+    width:50%;
+    left:300px;
+}
+
+.intro-btn{
+    position: relative;
+    top:55px;
+    right:-310px;
+}
