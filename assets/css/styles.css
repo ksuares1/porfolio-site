@@ -50,3 +50,18 @@ body{
     top:55px;
     right:-310px;
 }
+
+/* About Images */
+
+.python-img{
+    width:45%;
+    height:75%;
+}
+
+.js-logo{
+    width:35%;
+}
+
+.languages{
+    margin: 25%;
+}
