@@ -64,4 +64,24 @@ body{
 
 .languages{
     margin: 25%;
+    position:relative;
+    left:15%;
+}
+
+.para-container{
+    line-height: 1.8;
+    width:50%;
+    position:relative;
+    top: 10px;
+    left:25%;
+}
+
+.goals{
+    text-align: center;
+     margin:8%;
+}
+
+.my-goals{
+    text-align: center;
+    margin:5%;
 }
